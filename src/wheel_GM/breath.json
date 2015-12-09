@@ -1,0 +1,49 @@
+{
+	"pattrstorage" : 	{
+		"name" : "breath[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"flonum" : [ 1.9 ],
+					"number" : [ 108 ],
+					"number[1]" : [ 60 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"flonum" : [ 1.25 ],
+					"number" : [ 106 ],
+					"number[1]" : [ 80 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"flonum" : [ 1.25 ],
+					"number" : [ 110 ],
+					"number[1]" : [ 110 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"flonum" : [ 0.0 ],
+					"number" : [ 0 ],
+					"number[1]" : [ 60 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
